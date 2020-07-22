@@ -1,0 +1,39 @@
+{
+  "name": "honeystore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.0",
+    "connect-mongo": "^3.2.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-hbs": "^2.3.3",
+    "express-jquery": "^1.8.3",
+    "express-jwt": "^5.3.3",
+    "express-session": "^1.17.1",
+    "express-validator": "^6.5.0",
+    "font-awesome": "^4.7.0",
+    "formidable": "^1.2.2",
+    "helmet": "^3.22.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.18",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4",
+    "passport": "^0.4.1",
+    "popper.js": "^1.16.1",
+    "telegraf": "^3.38.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
