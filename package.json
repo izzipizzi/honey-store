@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "express-hbs": "^2.3.3",
     "express-jquery": "^1.8.3",
-    "express-jwt": "^5.3.3",
+    "express-jwt": "^6.0.0",
     "express-session": "^1.17.1",
     "express-validator": "^6.5.0",
     "font-awesome": "^4.7.0",
